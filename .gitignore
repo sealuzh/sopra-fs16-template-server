@@ -27,6 +27,7 @@ $RECYCLE.BIN/
 /build/
 .gradle/
 !/gradle/**/*.jar
+.settings/gradle/
 
 # Eclipse
 .classpath
